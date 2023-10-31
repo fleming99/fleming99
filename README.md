@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fleming99
 - 👀 I’m interested in learning about backend and IA.
-- 🌱 I’m currently learning HTML, CSS, C, C++, C#.
+- 🌱 I’m currently learning C# and Java.
 - 💞️ I’m looking to collaborate on any projects that helps me learning something new.
 - 📫 How to reach me: rfleming1235@gmail.com
 
