@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafael Fleming, 24 years old, and a Java lover.
 - 👀 I’m interested in learning about backend.
-- 🌱 I’m currently learning C# and Java.
+- 🌱 I’m currently learning Spring Framework.
 - 💞️ I’m looking to collaborate on any projects that helps me learning something new.
 - 📫 How to reach me: rfleming1235@gmail.com
 
